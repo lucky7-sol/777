@@ -15,8 +15,7 @@ A fair and transparent lottery system built on the Solana blockchain, featuring 
 - Payouts are processed automatically to the winner's wallet
 
 ### Prize Pool
-- 95% of the pool balance is awarded to winners
-- 5% remains for operational costs
+- 100% of the pool balance is awarded to winners
 - All transactions are publicly viewable on the blockchain
 
 ## Features
